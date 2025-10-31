@@ -1,5 +1,3 @@
-<img width="1472" height="932" alt="image" src="https://github.com/user-attachments/assets/21098c19-fe5e-4532-834e-233ff77d9eac" /># Modular Data Visualizer
-
 **Modular Data Visualizer** is a lightweight Java Swing application for exploring tabular data (CSV), drawing Bar / Line / Pie / Box plots, and automatically recommending an appropriate chart type. It supports auto-aggregation (binning) for large X axes, CSV import, and PNG export.
 
 > Built with Java + Gradle. Simple, modular chart components make it easy to extend with new chart types and analysis modules.
@@ -19,9 +17,8 @@
 
 ## Screenshots
 
-*(Replace these with actual images in `/docs` or the repository root)*
-<img width="1472" height="932" alt="image" src="https://github.com/user-attachments/assets/5560a62d-d12e-43cd-b073-c4cd6e5a91dd" />
-<img width="1483" height="934" alt="image" src="https://github.com/user-attachments/assets/ce0fdf15-8898-4240-9331-e9b00d427572" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/5560a62d-d12e-43cd-b073-c4cd6e5a91dd" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/ce0fdf15-8898-4240-9331-e9b00d427572" />
 
 
 ---
