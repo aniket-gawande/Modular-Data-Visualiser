@@ -197,9 +197,6 @@ gradlew, gradlew.bat, settings.gradle
 ---
 
 ## License & Contact
-
-Add your license here (e.g. MIT) and maintainer contact:
-
 ```
 MIT License
 Author: Aniket Gawande (Aniket, Atharv, Ashutosh)
